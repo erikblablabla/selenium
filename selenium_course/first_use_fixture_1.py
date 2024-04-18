@@ -9,7 +9,7 @@ import pytest
 import time
 
 link = "https://selenium1py.pythonanywhere.com/"
-asd
+
 class TestMainPage1():
     @pytest.fixture
     def start_class(self):
