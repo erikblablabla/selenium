@@ -4,8 +4,8 @@ from selenium import webdriver
 
 #импортируем класс By , который позволяет выбрать способ поиска элемента
 from selenium.webdriver.common.by import By
-
 import time
+
 
 try:
     browser = webdriver.Chrome()
